@@ -124,7 +124,7 @@ Trilogy Education Services © 2019. All Rights Reserved.
 
 ## Analysis
 
-# Python API Challenge
+### Python API Challenge
 
 The purpose of this exercise was to utilize APIs to analyze weather data from 500+ random countries and use that data to help automate what would be exhaustive travel destination research. 
 
